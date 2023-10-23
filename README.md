@@ -24,8 +24,7 @@ Before using this code, ensure that you have the following prerequisites in plac
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/surface-movement-system.git
-   cd surface-movement-system
+   git clone https://github.com/tiago719/weaving
    ```
 
 2. Install the required Python libraries. You can use pip for this:
